@@ -21,13 +21,13 @@ These were short and fast paced projects, no communication channel with the desi
 - [elumina](https://elumina.com/)
 - [sebastianmd](https://sebastianmd.com/)
 - [securiport](https://securiport.com/)
-- [ibedigital](https://ibedigital.com/) * Poorly managed & quite broken - by now - See original reference [here](references/ref-ibe-homepage-final.jpg)
-- [mortgage365](https://mortgage365.com/) * It's been updated - Poor  design considerations for some updates - See original reference - [here](references/ref-M365-homepage-final.jpg)
+- [ibedigital](https://ibedigital.com/) * Poorly managed & quite broken by now - [See original content reference](references/ref-ibe-homepage-final.jpg)
+- [mortgage365](https://mortgage365.com/) * It's been updated - Poor  design considerations for some updates - [See original content reference](references/ref-M365-homepage-final.jpg)
 - [health-savings](https://health-savings.com/) * Images issue induced by missing style (probably removed) 
 
 ### UO Solutions
 
 - [oppenheimrealestate](https://oppenheimrealestate.com/)
 https://brotherad.com.mx/
-- [https://mrswordsmith.com/](https://mrswordsmith.com/) * Gone forward - I'll be uploading original reference [here](https://www.example.com)
+- [https://mrswordsmith.com/](https://mrswordsmith.com/) * Gone forward - I'll be uploading original reference [here](#)
 - [gomez-pinzon](https://gomez-pinzon.com) * Changed after company acquisition - Check reference [here](#)
