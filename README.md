@@ -28,6 +28,6 @@ These were short and fast paced projects, no communication channel with the desi
 ### UO Solutions
 
 - [oppenheimrealestate](https://oppenheimrealestate.com/)
-https://brotherad.com.mx/
-- [https://mrswordsmith.com/](https://mrswordsmith.com/) * Gone forward - I'll be uploading original reference [here](#)
-- [gomez-pinzon](https://gomez-pinzon.com) * Changed after company acquisition - Check reference [here](#)
+- [brotherad.mx](https://brotherad.com.mx/) - [See original content reference]()
+- [mrswordsmith](https://mrswordsmith.com/) * Previous version - [See original content](#)
+- [gomez-pinzon](#) * Changed after acquisition - [See version](#)
