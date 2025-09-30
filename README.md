@@ -2,7 +2,7 @@
 
 Having a graphic design background I code responsive, accessible UI with performance and SEO in mind. I work across WordPress and React, translating design systems into clean components. This portfolio highlights team projects I helped ship at agencies and in-house.
 
-I’m compiling public URLs of projects I contributed to, listed under the hiring company/agency. They owned the client relationship; I contributed as a contractor. I’m not claiming ownership, only my scope and time frame. Live sites may have changed since delivery.
+These links show projects I worked on as a contractor through agencies. I do not claim ownership of the client relationship; my part was limited to the work and time I was involved. Please note that live sites may have changed since my involvement.
 
 ## Freelance work
 
@@ -14,6 +14,8 @@ Agency building WordPress sites for multiple clients. I handled front-end stylin
 
 These were short and fast paced projects, no communication channel with the design team, designs were provided and excecuted as they came.
 
+Use of WPBakery and Woo.
+
 - [biodefensecommission](https://biodefensecommission.org/)
 - [casunglasses](https://casunglasses.com/)
 - [nikangtx](https://www.nikangtx.com/)
@@ -21,13 +23,16 @@ These were short and fast paced projects, no communication channel with the desi
 - [elumina](https://elumina.com/)
 - [sebastianmd](https://sebastianmd.com/)
 - [securiport](https://securiport.com/)
-- [ibedigital](https://ibedigital.com/) * Poorly managed & quite broken by now - [See original content reference](references/ref-ibe-homepage-final.jpg)
-- [mortgage365](https://mortgage365.com/) * It's been updated - Poor  design considerations for some updates - [See original content reference](references/ref-M365-homepage-final.jpg)
+- [ibedigital](https://ibedigital.com/) * Poorly managed & quite broken by now - [See original graphic reference](references/ref-ibe-homepage-final.jpg)
+- [mortgage365](https://mortgage365.com/) * It's been updated - Poor  design considerations for some updates - [See original graphic reference](references/ref-M365-homepage-final.jpg)
 - [health-savings](https://health-savings.com/) * Images issue induced by missing style (probably removed) 
 
 ### UO Solutions
 
 - [oppenheimrealestate](https://oppenheimrealestate.com/)
-- [brotherad.mx](https://brotherad.com.mx/) - [See original content reference]()
-- [mrswordsmith](https://mrswordsmith.com/) * Previous version - [See original content](#)
-- [gomez-pinzon](#) * Changed after acquisition - [See version](#)
+- [brotherad.mx](https://brotherad.com.mx/) * Missing reference
+- [mrswordsmith](https://mrswordsmith.com/) * Missing reference
+
+React/Next.js project
+
+- [gomez-pinzon - dev version](https://gomez-pinzon.vercel.app/en/) * Taken down after firm acquisition
