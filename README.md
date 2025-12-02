@@ -1,39 +1,136 @@
-# Juan David | Frontend developer 
+# Juan David | Frontend Developer
 
-Having a graphic design background I code responsive, accessible UI with performance and SEO in mind. I work across WordPress and React, translating design systems into clean components.
+With a background in graphic design, I build responsive, accessible UIs with performance and SEO in mind. My work spans modern frontend technologies (React, Next.js, Redux, TypeScript, Tailwind) as well as WordPress implementations, translating design systems into clean, maintainable interfaces.
 
-These links show projects I worked on as a contractor through agencies. I do not claim ownership of the client relationship; my part was limited to the work and time I was involved. Please note that live sites may have changed since my involvement.
+---
+
+## Tech stack & focus areas
+
+### **Frontend**
+- React, Next.js, Redux, TypeScript  
+- JavaScript (ES6+), HTML5, CSS3/Sass  
+- Tailwind, Ant Design, design systems, component-driven UI  
+- Storybook for component documentation and UI development  
+- Performance, accessibility, responsive layout  
+
+### **UI implementation**
+- Strong Figma-to-code translation and pixel-accurate implementation  
+- Advanced responsive layout work (breakpoints, fluid grids, flexible components)  
+- Customizing Bootstrap and Ant Design—variables, tokens, typography, spacing, color systems, and component overrides  
+
+### **CMS**
+- WordPress (WPBakery, Elementor, custom theming)  
+- WooCommerce integration  
+- HubSpot CMS theming  
+
+### **General**
+- Git, CI/CD, Vercel  
+- Component-driven development workflows  
+- Consistent cross-device execution  
+
+---
+
+## MuleSoft
+
+During my time at MuleSoft I worked on several frontend initiatives across their learning and marketing ecosystem, including platform migrations, component libraries, and UX improvements for training.mulesoft.com and related properties. Much of the work happened in highly constrained LMS/CMS environments, requiring isolated components, careful architecture, and cross-team collaboration.
+
+---
+
+### Mega-menu (isolated build)
+
+A fully modular, self-contained mega-menu built as a technical test for MuleSoft.  
+The requirement was to inject a large, content-heavy navigation component into four different websites without conflicting with their CSS, JavaScript, or existing frameworks.
+
+The build uses a component-based architecture with Handlebars partials and selectively imported Bootstrap modules—only the pieces required for layout and interactions. The result is a responsive, accessible menu with smooth animations, keyboard navigation, and complete isolation from host environments.
+
+🔗 **Live isolated version (Vercel):**  
+- [Mulesoft developer menu](https://megamenu-mule.vercel.app/)  
+
+**Key aspects of the build:**
+
+**Modularization & Assembly**
+- Component architecture using Handlebars partials  
+- Atomic-style structure for maintainability  
+- Independent development and testing  
+- Cherry-picked Bootstrap modules (grid, utilities, buttons)
+
+**Optimization & Weight Reduction**
+- ~70% smaller than full Bootstrap (≈15KB vs 120KB)  
+- Selective Sass imports  
+- Automatic CSS/JS inlining (zero HTTP requests)  
+- Terser minification and build-time tree-shaking
+
+**Multi-Site Injection**
+- Standalone HTML output with fully inlined assets  
+- Zero runtime dependencies  
+- CMS-agnostic deployment  
+
+---
+
+### MS Storybook library
+
+### MS training landing redesign
+
+### MS Marketing content production
+
+---
 
 ## Freelance work
 
-Agency building WordPress sites for multiple clients. I handled front-end styling and system setup (typograpy, color palette, spacing, breakpoints and interactive states), made layouts responsive, and set up/tuned components to match design across devices.
+Most of my freelance work comes from agency collaborations, joining ongoing projects to handle front-end implementation, UI translation, responsive behavior, and component styling.  
+Live sites may differ from what I delivered, but the links below represent work I contributed to during my engagement.
 
+Agency work included:
+- Front-end styling, layout structure, and responsive behavior  
+- Component-driven UI following Atomic Design principles  
+- System setup (typography, spacing, color scales, breakpoints, interaction states)  
+- Translating designs or Figma references into functioning components  
+- Custom styling (Tailwind, Bootstrap) and theme adjustments  
+- Integration work with WordPress or Laravel backends  
 
-## WordPress projects
-### NYC Media Responsive
+---
 
-These were short and fast paced projects, no communication channel with the design team, designs were provided and excecuted as they came.
+## Laravel Projects
 
-- [biodefensecommission](https://biodefensecommission.org/)
-- [casunglasses](https://casunglasses.com/)
-- [nikangtx](https://www.nikangtx.com/)
-- [health-savings](https://health-savings.com/)
-- [elumina](https://elumina.com/)
-- [sebastianmd](https://sebastianmd.com/)
-- [securiport](https://securiport.com/)
-- [ibedigital](https://ibedigital.com/) * Poorly managed & quite broken by now - [See original graphic reference](references/ref-ibe-homepage-final.jpg)
-- [mortgage365](https://mortgage365.com/) * It's been updated - Poor  design considerations for some updates - [See original graphic reference](references/ref-M365-homepage-final.jpg)
-- [health-savings](https://health-savings.com/) * Images issue induced by missing style (probably removed) 
+### Gómez-Pinzón (development version)
 
-## UO Solutions
+Full-stack build using a Laravel API and a Next.js 14 frontend.  
+I developed the UI with Atomic Design, Tailwind custom styling, Framer Motion animations, and full internationalization (i18n) via next-i18n-router + i18next.  
+The project also included Headless UI components, Swiper.js, and react-hook-form for advanced form handling.
 
-- [brotherad.mx](https://brotherad.com.mx/) * Previous version - Missing reference
-- [mrswordsmith](https://mrswordsmith.com/) * Previous version - Missing reference
+- [gomez-pinzon — development version](https://gomez-pinzon.vercel.app/en/)  
+  *Live version was removed following a firm acquisition during development.*
 
-Laravel project
+### Oppenheim Real Estate
+
+Frontend implementation for a Laravel platform using Bootstrap within an Atomic Design structure.  
+Delivered reusable UI modules, page templates, and responsive layouts for integration into the Laravel backend.
 
 - [oppenheimrealestate](https://oppenheimrealestate.com/)
 
-React/Next.js project
+---
 
-- [gomez-pinzon - dev version](https://gomez-pinzon.vercel.app/en/) * Taken down after firm acquisition
+## WordPress Projects
+
+Marketing and corporate websites built via WPBakery, Elementor, or custom theming.  
+Work included front-end implementation, responsive layout, typography systems, interaction states, and component adjustments.
+
+### NYC Media Responsive  
+Fast-paced execution and delivery based on provided designs.
+
+- [biodefensecommission](https://biodefensecommission.org/)  
+- [casunglasses](https://casunglasses.com/)  
+- [nikangtx](https://www.nikangtx.com/)  
+- [health-savings](https://health-savings.com/)  
+- [elumina](https://elumina.com/)  
+- [sebastianmd](https://sebastianmd.com/)  
+- [securiport](https://securiport.com/)  
+- [ibedigital](https://ibedigital.com/) — *Currently broken; see original design reference* — [Reference](references/ref-ibe-homepage-final.jpg)  
+- [mortgage365](https://mortgage365.com/) — *Updated since; diverges from original design* — [Reference](references/ref-M365-homepage-final.jpg)  
+- [health-savings](https://health-savings.com/) — *Image issue caused by removed styles after handoff*  
+
+### UO Solutions
+- [brotherad.mx](https://brotherad.com.mx/) — *Previous version; reference missing*  
+- [mrswordsmith](https://mrswordsmith.com/) — *Previous version; reference missing*  
+
+---
