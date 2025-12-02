@@ -1,10 +1,20 @@
-# Juan David | Frontend Developer
+# 🔮 Juan David | Frontend Developer
 
 With a background in graphic design, I build responsive, accessible UIs with performance and SEO in mind. My work spans modern frontend technologies (React, Next.js, Redux, TypeScript, Tailwind) as well as WordPress implementations, translating design systems into clean, maintainable interfaces.
 
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+
 ---
 
-## Tech stack & focus areas
+## 🧠 Tech stack & focus areas
 
 ### **Frontend**
 - React, Next.js, Redux, TypeScript  
@@ -30,11 +40,9 @@ With a background in graphic design, I build responsive, accessible UIs with per
 
 ---
 
-## MuleSoft
+## 🫏🐎 MuleSoft
 
 During my time at MuleSoft I worked on several frontend initiatives across their learning and marketing ecosystem, including platform migrations, component libraries, and UX improvements for training.mulesoft.com and related properties. Much of the work happened in highly constrained LMS/CMS environments, requiring isolated components, careful architecture, and cross-team collaboration.
-
----
 
 ### Mega-menu (isolated build)
 
@@ -43,7 +51,7 @@ The requirement was to inject a large, content-heavy navigation component into f
 
 The build uses a component-based architecture with Handlebars partials and selectively imported Bootstrap modules—only the pieces required for layout and interactions. The result is a responsive, accessible menu with smooth animations, keyboard navigation, and complete isolation from host environments.
 
-🔗 **Live isolated version (Vercel):**  
+🔗 **Live isolated version:**  
 - [Mulesoft developer menu](https://megamenu-mule.vercel.app/)  
 
 **Key aspects of the build:**
@@ -68,14 +76,14 @@ The build uses a component-based architecture with Handlebars partials and selec
 ---
 
 ### MS Storybook library
-
 ### MS training landing redesign
-
 ### MS Marketing content production
+
+In progress of uploading dev versions...
 
 ---
 
-## Freelance work
+## 💼 Freelance work
 
 Most of my freelance work comes from agency collaborations, joining ongoing projects to handle front-end implementation, UI translation, responsive behavior, and component styling.  
 Live sites may differ from what I delivered, but the links below represent work I contributed to during my engagement.
@@ -88,8 +96,6 @@ Agency work included:
 - Custom styling (Tailwind, Bootstrap) and theme adjustments  
 - Integration work with WordPress or Laravel backends  
 
----
-
 ## Laravel Projects
 
 ### Gómez-Pinzón (development version)
@@ -98,6 +104,7 @@ Full-stack build using a Laravel API and a Next.js 14 frontend.
 I developed the UI with Atomic Design, Tailwind custom styling, Framer Motion animations, and full internationalization (i18n) via next-i18n-router + i18next.  
 The project also included Headless UI components, Swiper.js, and react-hook-form for advanced form handling.
 
+🔗 **Development version:**  
 - [gomez-pinzon — development version](https://gomez-pinzon.vercel.app/en/)  
   *Live version was removed following a firm acquisition during development.*
 
