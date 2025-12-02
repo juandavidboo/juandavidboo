@@ -58,7 +58,9 @@ With a background in graphic design, I build responsive, accessible UIs with per
   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
 - **Gómez-Pinzón (React + Next.js)**  
-  [Live dev version](https://gomez-pinzon.vercel.app/en/) · [Jump to section](#gómez-pinzón-development-version)
+  [Live dev version](https://gomez-pinzon.vercel.app/en/) · [Jump to section]
+
+  (#gómez-pinzón-development-version)
   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=20232A)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
