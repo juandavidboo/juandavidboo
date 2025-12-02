@@ -2,14 +2,17 @@
 
 With a background in graphic design, I build responsive, accessible UIs with performance and SEO in mind. My work spans modern frontend technologies (React, Next.js, Redux, TypeScript, Tailwind) as well as WordPress implementations, translating design systems into clean, maintainable interfaces.
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+<!-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) -->
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
 ---
@@ -40,21 +43,41 @@ With a background in graphic design, I build responsive, accessible UIs with per
 
 ---
 
-## 🫏🐎 MuleSoft
+## 🌟 Highlilght projects
+
+- **Mulesoft mega-menu (component based)**  
+  [Live demo](https://megamenu-mule.vercel.app/) · [Jump to section](#mega-menu-modular-build)
+  ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  ![Handlebars](https://img.shields.io/badge/Handlebars.js-f0772b?logo=handlebarsdotjs&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+
+- **Gómez-Pinzón (React + Next.js)**  
+  [Live dev version](https://gomez-pinzon.vercel.app/en/) · [Jump to section](#gómez-pinzón-development-version)
+  ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+
+
+---
+
+## 🐴 MuleSoft
 
 During my time at MuleSoft I worked on several frontend initiatives across their learning and marketing ecosystem, including platform migrations, component libraries, and UX improvements for training.mulesoft.com and related properties. Much of the work happened in highly constrained LMS/CMS environments, requiring isolated components, careful architecture, and cross-team collaboration.
 
-### Mega-menu (isolated build)
+### mega-menu (modular build)
 
 A fully modular, self-contained mega-menu built as a technical test for MuleSoft.  
 The requirement was to inject a large, content-heavy navigation component into four different websites without conflicting with their CSS, JavaScript, or existing frameworks.
 
 The build uses a component-based architecture with Handlebars partials and selectively imported Bootstrap modules—only the pieces required for layout and interactions. The result is a responsive, accessible menu with smooth animations, keyboard navigation, and complete isolation from host environments.
 
-🔗 **Live isolated version:**  
+🔗 **Live isolated build:**  
 - [Mulesoft developer menu](https://megamenu-mule.vercel.app/)  
 
-**Key aspects of the build:**
+**Key aspects:**
 
 **Modularization & Assembly**
 - Component architecture using Handlebars partials  
@@ -77,7 +100,7 @@ The build uses a component-based architecture with Handlebars partials and selec
 
 ### MS Storybook library
 ### MS training landing redesign
-### MS Marketing content production
+### MS Marketing content production and redesign
 
 In progress of uploading dev versions...
 
@@ -140,4 +163,13 @@ Fast-paced execution and delivery based on provided designs.
 - [brotherad.mx](https://brotherad.com.mx/) — *Previous version; reference missing*  
 - [mrswordsmith](https://mrswordsmith.com/) — *Previous version; reference missing*  
 
+---
+
+## Wunderman Thompson
+
+✈️
+### Marketing Landings
+### E-mail modules production
+### Miles tracking
+###
 ---
