@@ -73,9 +73,9 @@ With a background in graphic design, I build responsive, accessible UIs with per
 
 During my time at MuleSoft I worked on several frontend initiatives across their learning and marketing ecosystem, including platform migrations, component libraries, and UX improvements for training.mulesoft.com and related properties. Much of the work happened in highly constrained LMS/CMS environments, requiring isolated components, careful architecture, and cross-team collaboration.
 
-### mega-menu (modular build)
+### Mega-menu (modular build)
 
-A fully modular, self-contained mega-menu built as a technical test for MuleSoft.  
+A fully modular, self-contained mega-menu built as a technical and branding update for MuleSoft.  
 The requirement was to inject a large, content-heavy navigation component into four different websites without conflicting with their CSS, JavaScript, or existing frameworks.
 
 The build uses a component-based architecture with Handlebars partials and selectively imported Bootstrap modules—only the pieces required for layout and interactions. The result is a responsive, accessible menu with smooth animations, keyboard navigation, and complete isolation from host environments.
