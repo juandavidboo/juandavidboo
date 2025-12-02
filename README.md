@@ -4,7 +4,7 @@ With a background in graphic design, I build responsive, accessible UIs with per
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=20232A)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
@@ -12,8 +12,10 @@ With a background in graphic design, I build responsive, accessible UIs with per
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
-<!-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) -->
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+<!-- ![React](https://img.shields.io/badge/React-000000?logo=react&logoColor=61DAFB) -->
+<!-- ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) -->
+<!-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) -->
 
 ---
 
@@ -47,6 +49,8 @@ With a background in graphic design, I build responsive, accessible UIs with per
 
 - **Mulesoft mega-menu (component based)**  
   [Live demo](https://megamenu-mule.vercel.app/) · [Jump to section](#mega-menu-modular-build)
+
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
   ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -55,7 +59,7 @@ With a background in graphic design, I build responsive, accessible UIs with per
 
 - **Gómez-Pinzón (React + Next.js)**  
   [Live dev version](https://gomez-pinzon.vercel.app/en/) · [Jump to section](#gómez-pinzón-development-version)
-  ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=20232A)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
